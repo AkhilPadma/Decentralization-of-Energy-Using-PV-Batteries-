@@ -29,22 +29,8 @@ We combine **solar PV generation, battery storage, demand-shift strategies, and 
    - Vary battery size (50–300 kWh).  
    - Track energy throughput, degradation, curtailment avoided, and costs.  
 
-3. **Decision Algorithm**  
-   - Identify cheapest hours to **charge** (when solar surplus or low prices).  
-   - Identify peak hours to **discharge** (when demand & price are high).  
-
-4. **Evaluation**  
+3. **Evaluation**  
    - Compare strategies across cost, savings, revenues, and sustainability metrics.  
-
----
-
-##  Challenges  
-- Balancing between **higher battery degradation** and **service revenues**.  
-- Accurate **forecasting** of PV, load, and prices.  
-- Trade-offs between **battery size vs. curtailment vs. savings**.  
-- Scalability to community microgrids.  
-
----
 
 ##  Results (Highlights)  
 - **PV-only best case (300 kWh / 150 kW):**  
