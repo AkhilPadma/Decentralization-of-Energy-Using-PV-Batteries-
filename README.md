@@ -68,6 +68,3 @@ We combine **solar PV generation, battery storage, demand-shift strategies, and 
 - Reduced curtailment at community scale.  
 - Stronger case for **AI-driven optimization** at neighborhood level.  
 
----
-
-##  Repository Structure  
